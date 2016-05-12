@@ -3,7 +3,7 @@
 #This file is only for Ubuntu 7.0 - The base repository does not have zookeeper version above 3.4.
 
 # Extract the package.
-tar -xvf /vagrant/zookeeper-3.4.6.tar.gz -C /vagrant/
+tar -xvf /vagrant/zookeeper-3.4.6.tar.gz -C /vagrant/ >/dev/null
 sleep 5
 
 # Make a copy of the configuration file with the name zoo.cfg.
