@@ -14,7 +14,7 @@ Prior to installation you need to obtain in your Boundary API Token.
 
 1. Clone the GitHub Repository:
 ```bash
-$ git clone https://github.com/boundary/truesightpulse-vagrant-zookeeper
+$ git clone https://github.com/boundary/vagrant-zookeeper
 ```
 
 2. Start the virtual machine using your TrueSight Pulse API Token:
